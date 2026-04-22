@@ -12,7 +12,6 @@ const SECTIONS = [
     { id: "pm2", title: "PM2", file: "sections/pm2.html", tags: "pm2 node process manager ecosystem logs deploy" },
     { id: "cicd", title: "CI/CD", file: "sections/cicd.html", tags: "ci cd github actions pipelines kubectl helm deploy" },
     { id: "kubernetes", title: "Kubernetes", file: "sections/kubernetes.html", tags: "k8s kubernetes pods deployments services configmaps secrets ingress" },
-    { id: "kubernetes-maint", title: "Kubernetes Maintenance", file: "sections/kubernetes-maint.html", tags: "k8s maintenance upgrade drain nodes troubleshoot logs scaling backup" },
     { id: "prometheus", title: "Prometheus", file: "sections/prometheus.html", tags: "prometheus monitoring promql scrape metrics" },
     { id: "grafana", title: "Grafana", file: "sections/grafana.html", tags: "grafana dashboards visualization datasource" },
 
